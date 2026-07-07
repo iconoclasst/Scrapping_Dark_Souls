@@ -34,20 +34,24 @@ def get_weapons():
             if len(tds) == 0:
                 continue
 
-            weapons['name'].append(tds[1].get_text(" ", strip=True))
-            weapons['damage'].append(tds[2].get_text(" ", strip=True))
-
-            if len(tds) > 8:
+            if len(tds) == 9:
+                weapons['name'].append(tds[1].get_text(" ", strip=True))
+                weapons['damage'].append(tds[2].get_text(" ", strip=True))
                 weapons['critical'].append(tds[3].get_text(" ", strip=True))
-            else:
-                weapons['critical'].append('None')
-            weapons['durability'].append(tds[4].get_text(" ", strip=True))
-            weapons['weight'].append(tds[5].get_text(" ", strip=True))
-            weapons['stats needed/bonuses'].append(tds[6].get_text(" ", strip=True))
-            weapons['availability'].append(tds[7].get_text(" ", strip=True))
-            if len(tds) > 8:
+                weapons['durability'].append(tds[4].get_text(" ", strip=True))
+                weapons['weight'].append(tds[5].get_text(" ", strip=True))
+                weapons['stats needed/bonuses'].append(tds[6].get_text(" ", strip=True))
+                weapons['availability'].append(tds[7].get_text(" ", strip=True))
                 weapons['special notes'].append(tds[8].get_text(" ", strip=True))
-            else:
-                weapons['special notes'].append('None')
+
+            elif len(tds) == 8:
+                weapons['name'].append(tds[1].get_text(" ", strip=True))
+                weapons['damage'].append(tds[2].get_text(" ", strip=True))
+                weapons['critical'].append(None)
+                weapons['durability'].append(tds[3].get_text(" ", strip=True))
+                weapons['weight'].append(tds[4].get_text(" ", strip=True))
+                weapons['stats needed/bonuses'].append(tds[5].get_text(" ", strip=True))
+                weapons['availability'].append(tds[6].get_text(" ", strip=True))
+                weapons['special notes'].append(tds[7].get_text(" ", strip=True))
     
     return weapons
