@@ -4,3 +4,4 @@ __pycache__
 *.lock
 *.html
 *.csv
+.ipynb_checkpoints directory
