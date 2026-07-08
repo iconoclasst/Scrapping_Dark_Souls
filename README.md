@@ -1,4 +1,4 @@
-## Dataset com armas do Dark Souls 1  
+## Dataset com elementos do Dark Souls 1  
 
 > Projeto de scrapping pra geração de dataset com elementos do Dark Souls 1
 
