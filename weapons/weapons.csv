@@ -1,0 +1,121 @@
+name,damage,critical,durability,weight,stats needed/bonuses,availability,special notes
+Fist,20/0/0/0 (Strike),,5,0,0*/0/0/0 -/-/-/-,All Classes default,-
+Caestus,66/0/0/0 (Strike),,300,0.5,5*/8/0/0 C/C/-/-,Sold by Andre of Astora,-
+Claw,72/0/0/0 (Slash),,150,1.0,6*/14/0/0 E/B/-/-,Sold by Shiva of the East,"Bleed build up is 30 per hit, does 30% of the enemy's total HP Strong attack is replaced by a jumping horizontal swing Roll + weak attack is replaced by a rolling thrust"
+Dark Hand (Right Hand),200/0/0/0 (Strike),,999,0.5,0*/0/0/0 -/-/-/-,Join Darkwraith Covenant Darkwraith (Enemy) drop,"Strong attack is replaced by a short range grab that is capable of stealing Humanity from NPCs and other players When equipped in left hand, can be used to create an energy shield"
+Dragon Bone Fist,90/0/0/0 (Strike),,999,8.0,20*/0/0/0 A/-/-/-,Ascension only Upgrade +10 Fist weapon with Core of an Iron Golem,Raises Magic and Fire Defense by 15 points Strong Attack is replaced by a delayed jumping uppercut
+Blacksmith Giant Hammer,120/0/0/200 (Strike),,250,6.0,16*/0/0/0 D/-/-/-,Giant Blacksmith drop,-
+Blacksmith Hammer,87/0/0/0 (Strike),,250,5.0,14*/0/0/0 C/-/-/-,Andre of Astora drop,-
+Club,87/0/0/0 (Strike),,250,3.0,10*/0/0/0 A/-/-/-,Starting weapon of the Deprived class Sold by Undead Merchant Male,-
+Hammer of Vamos,115/0/64/0 (Strike),,250,5,14*/0/0/0 C/-/-/-,Vamos drop,-
+Mace,91/0/0/0 (Strike),,250,4.0,12*/0/0/0 B/-/-/-,Starting weapon of the Cleric class Sold by Patches The Catacombs treasure,-
+Morning Star,83/0/0/0 Bleed 300 (Strike),,200,4.0,11*/0/0/0 C/-/-/-,Firelink Shrine treasure,Can inflict Bleed
+Pickaxe,89/0/0/0 (Thrust),,250,4.0,14*/0/0/0 B/-/-/-,Infested Barbarian (Boulder) drop,-
+Reinforced Club,97/0/0/0 Bleed 300 (Strike),,100,4.0,12*/0/0/0 C/-/-/-,Sold by Undead Merchant(male),Can inflict Bleed
+Warpick,91/0/0/0 (Thrust),,220,3.5,11*/10/0/0 C/D/-/-,Sold by Andre of Astora,-
+Demon's Great Hammer,138/0/0/0 (Strike),,600,22.0,46*/0/0/0 B/-/-/-,Asylum Demon drop Trade Sack to Snuggly the Crow,-
+Dragon Tooth,290/0/0/0 (Strike),,999,18.0,40*/0/0/0 D/-/-/-,Anor Londo Chest,Raises Fire and Magic defense by 20 points. Never loses durability points.
+Grant,130/130/0/0 Holy 130 (Strike),,600,24.0,50*/0/0/30 B/-/-/A,Paladin Leeroy drop,Two handed strong attack replaced by an energy wave emanating from wielder
+Great Club,135/0/0/0 (Strike),,250,12.0,28*/0/0/0 B/-/-/-,Blighttown treasure,-
+Large Club,120/0/0/0 Poison 180 (Strike),,250,11.0,26*/0/0/0 A/-/-/-,Infested barbarian drop,Poison build up is 30 per hit and once inflicted does 3 HP per second for 160 seconds. Strong attack is replaced by a dashing horizontal swing.
+Smough's Hammer,300/0/0/0 (Strike),,600,28.0,58*/0/0/0 D/-/-/-,Ascension only. Upgrade +10 blunt weapon with Soul of Smough,One-handed strong attack replaced with a wide horizontal swing. Two-handed strong attack replaced with a jumping attack. Regenerates 10 HP on hit.
+Battle Axe,95/0/0/0 (Normal),,250,4.0,12*/8/0/0 C/D/-/-,Sold by Andre of Astora Hollow (Axe) drop Bandit starting equipment,N/A
+Butcher Knife,90/0/0/0 (Normal),,250,10.0,24*/0/0/0 B/-/-/-,Maneater Mildred drop,Strong attack is similar to Mildred's overhead two-handed slam.
+Crescent Axe,115/115/0/0 Holy 120 (Normal),,180,7.0,18*/12/0/16 D/D/-/B,Sold by Patches Patches drop,N/A
+Gargoyle Tail Axe,93/0/0/0 (Normal),,150,5.0,14*/14/0/0 D/C/-/-,Bell Gargoyle (tail) drop First Anor Londo Gargoyle (tail) drop,Provides 100% increase to resistance for bleed and poison
+Golem Axe,170/0/0/0 (Normal),,600,16.0,36*/8/0/0 C/E/-/-,Create from a Core of an Iron Golem and any +10 axe,One-handed strong attack is replaced by an area of effect wind sphere that does magic damage
+Hand Axe,80/0/0/0 (Normal),,250,2.0,8*/8/0/0 C/D/-/-,Sold by Undead Merchant (Male) Pyromancer starting equipment,N/A
+Black Knight Greataxe,229/0/0/0 (Normal),,300,16.0,36*/18/0/0 B/E/-/-,Black Knight (axe) random drop,One-handed weak attack replaced by a horizontal swing that can be followed up with additional inputs One-handed strong attack replaced by a jumping downward swing Two-handed weak attack replaced by a diagonal swing that can be followed up with additional inputs Two-handed strong attack replaced with a delayed upward swing
+Demon's Greataxe,114/0/0/0 (Normal),,600,22.0,46*/0/0/0 A/-/-/-,Sold by Shiva of the East Taurus Demon random drop Minor Taurus Demon random drop,One-handed strong attack replaced with a large radius horizontal swing Two-handed strong attack replaced with slow vertical swing
+Dragon King Greataxe,380/0/0/0 (Normal),,400,24.0,50*/8/0/0 -/-/-/-,Gaping Dragon (tail) drop,Raises fire and magic defense by 20 points Two handed strong attack replaced by a very large area of effect magic attack around the wielder
+Greataxe,140/0/0/0 (Normal),,230,14.0,32*/8/0/0 C/E/-/-,Sold by Crestfallen Merchant Heavy Knight random drop Depths treasure,N/A
+Stone Greataxe,190/0/0/0 (Normal),,700,24.0,48*/10/0/0 B/E/-/-,Stone Guardian drop,One-handed strong attack is a delayed horizontal swing. Two-handed strong attack is a powerful downward blow that can be chained into a shockwave attack similar to the Stone Guardian 's own attack
+Bandit's Knife,56/0/0/0 Bleed 300 (Slashing),147,200,1,6*/12/0/0 E/B/-/-,Starting weapon for the Thief class Undead Assassin drop,Strong attack is replaced by a large horizontal slash that can be continued with additional input. Bleed build up is 30 per strike and does 30% of enemies total HP when inflicted.
+Dagger,56/0/0/0 (Slashing/Thrust),131,200,0.5,5*/8/0/0 E/B/-/-,Starting weapon for the Sorcerer class Sold by Undead Merchant (Male),-
+Dark Silver Tracer,75/0/0/0 (Slashing/Thrust),160,120,1.0,6*/25/0/0 E/S/-/-,Given by Lord's Blade Ciaran in exchange for Soul of Artorias Lord's Blade Ciaran drop,Has the highest Critical Bonus of any weapon in the game
+Ghost Blade,110/0/0/0 (Slashing/Thrust),127,100,0.5,5*/0/0/0 E/-/-/-,Ghost (Female) drop,Cursed weapon that can be used to engage Ghost s in New Londo Ruins . Strong attack is replaced with a double horizontal slash that can be followed up by a triple slash with an additional input.
+Parrying Dagger,54/0/0/0 (Slashing/Thrust),131,200,0.5,5*/14/0/0 E/B/-/-,New Londo Ruins,Left handed parry has unique animation that has a longer parrying window.
+Priscilla's Dagger,80/0/0/0 Bleed 500 Dark 110 (Slashing/Thrust),100,100,1,6*/20/0/0 -/A/-/-,Crossbreed Priscilla (Tail) drop,Strong attack is replaced with a rising slash into a downward slash that can be followed up by a spinning horizontal slash with an additional input. Bleed build up is 20 per strike and once inflicted does 50% of the enemy's total HP.
+Estoc,75/0/0/0 (Normal/Piercing),100,150,3.0,10*/12/0/0 D/C/-/-,New Londo Ruins treasure,Strong attack is a lunging slash.
+Mail Breaker,57/0/0/0 (Piercing),120,200,0.5,5*/12/0/0 D/C/-/-,Undead Burg treasure,Strong attack is a short stab.
+Rapier,73/0/0/0 (Piercing),110,150,1.5,7*/12/0/0 D/C/-/-,Sold by the Undead Merchant Male for 600 souls Dropped by Balder Knight (Rapier/Buckler),Strong attack is a lunging thrust.
+Ricard's Rapier,70/0/0/0 (Piercing),100,100,2.0,8*/20/0/0 E/B/-/-,Undead Prince Ricard drop,Strong attack is a lunging double thrust.
+Velka's Rapier,62/104/0/0 Dark 110 (Piercing),100,130,2.0,8*/16/16/0 E/C/B/-,Painted World of Ariamis treasure,Strong attack is double vertical slash.
+Astora's Straight Sword,80/80/0/0 Holy 120 (Normal),,160,3.0,10*/10/0/14 C/C/-/C,Valley of Drakes treasure,Bonus damage against undead enemies Can kill skeletons in the Catacombs without first killing the corresponding Necromancer .
+Balder Side Sword,80/0/0/0 (Normal),,120,3.0,10*/14/0/0 E/B/-/-,Balder knight (Sword) drop,Continuation to the heavy attack is a second thrust instead of an upward slash
+Barbed Straight Sword,80/0/0/0 Bleed 300 (Normal),,160,3.0,10*/10/0/0 D/D/-/-,Kirk Knight of Thorns drop,One handed heavy attack is identical to the two handed heavy attack. Bleed build up is 33 per strike and once inflicted does 30% of enemy's total HP
+Broad Sword,82/0/0/0 (Normal),,200,3.0,10*/10/0/0 C/C/-/-,Starting weapon of the Knight class Sold by Andre of Astora,One handed heavy attack is identical to the two handed heavy attack
+Broken Straight Sword,40/0/0/0 (Normal),,200,2.0,8*/8/0/0 D/D/-/-,Infested Ghoul (Sword) drop Hollow (Sword) drop,Can be used with Soul of Sif to create the Greatsword of Artorias .
+Crystal Straight Sword,"150/0/0/0 (Normal, Thrust)",,60,6.0,16*/10/0/0 C/C/-/-,Sold by Domhnall of Zena Undead Crystal Soldier (Sword) drop,Cannot be repaired.
+Dark Sword,82/0/0/0 (Normal),,200,6.0,16*/16/0/0 C/C/-/-,Join Darkwraith covenant,Heavy attack is replaced with a spinning upright slash that can be followed by a downward slash with an additional input.
+Drake Sword,200/0/0/0 (Normal),,360,6.0,16*/10/0/0 -/-/-/-,Hellkite Dragon (Tail) drop,Raises Fire and Magic Defense by 15 points. Two-handed Heavy Attack is a projectile that consumes 30 durability points.
+Longsword,80/0/0/0 (Normal),,200,3.0,10*/10/0/0 C/C/-/-,Starting weapon of the Warrior class Sold by Andre of Astora Undead Soldier (Sword/spear) drop,-
+Shortsword,78/0/0/0 (Normal),,200,2.0,8*/10/0/0 C/C/-/-,Starting weapon of the Hunter class Sold by Undead Merchant Male Undead soldier (Sword) drop,-
+Silver Knight Straight Sword,175/0/0/0 (Normal),,300,6.0,16*/22/0/0 E/C/-/-,Silver Knight (Sword) drop,"Heavy attack is replaced with an advancing downward slash, followed by a sweeping horizontal slash with an additional input"
+Straight Sword Hilt,20/0/0/0 (Normal),,200,1.0,6*/6/0/0 E/E/-/-,Starting Equip,Can be used with Soul of Sif to create the Greatsword of Artorias
+Sunlight Straight Sword,82/0/0/0 (Normal),,240,4.0,12*/12/0/0 C/C/-/-,Solaire of Astora drop,-
+Abyss Greatsword,160/0/0/0 (Normal),,300,9.0,22*/18/18/18 C/C/-/-,Ascension only. Upgrade +10 straight sword with Soul of Artorias,Damage affected by Humanity stat. One-handed strong attack replaced with a spinning horizontal slash. Two-handed strong attack replaced with a leaping spinning slash.
+Bastard Sword,105/0/0/0 (Normal),,200,6.0,16*/10/0/0 C/C/-/-,Sold by Andre of Astora,-
+Black Knight Sword,220/0/0/0 (Normal/Thrust),,300,8.0,20*/18/0/0 C/E/-/-,Black Knight drop,One handed strong attack is replaced with a charged long range thrusting attack. Two handed strong attack is replaced with a charged rising slash.
+Claymore,103/0/0/0 (Normal),,200,6.0,16*/10/0/0 C/C/-/-,Undead Burg treasure,One handed strong attack is replaced by a lunging thrust attack that can be followed up by a vertical slash with an additional input (similar to straightswords' strong attack).
+Crystal Greatsword,190/0/0/0 (Normal),,60,8.0,20*/10/0/0 C/C/-/-,Sold by Domhnall of Zena,Can't be repaired.
+Flamberge,100/0/0/0 Bleed 300 (Slash),,160,6.0,16*/14/0/0 D/C/-/-,Sold by Shiva of the East Serpent Mage drop,Strong attack is replaced with a diagonal slash that can be followed up by with additional inputs. Bleed build up is 36 per strike and once inflicted does 30% of enemy's total HP.
+Great Lord Greatsword,256/0/0/0 (Slash),,400,8.0,20*/10/0/0 D/D/-/-,"Ascension only. Upgrade +10 straight sword with Soul of Gwyn, Lord of Cinder",One handed and two handed strong attack is changed to a powerful downward slash.
+Greatsword of Artorias,120/85/0/0 Holy 140 (Normal/Thrust),,400,10,24*/18/20/20 C/C/B/B,Ascension only. Upgrade +10 Broken Sword with Soul of Sif,One handed strong attack is replaced with a charged dashing thrust. Two handed strong attack is replaced with a charged wide horizontal slash.
+Greatsword of Artorias,178/0/0/0 (Normal/Thrust),,400,10,24*/18/18/18 C/C/C/C,Ascension only. Upgrade +10 straight sword with Soul of Sif,Cursed weapon that can be used to attack Ghosts. One handed strong attack is replaced with a charged dashing thrust. Two handed strong attack is replaced with a charged wide horizontal slash.
+Man Serpent Greatsword,110/0/0/0 (Normal),,300,10.0,24*/0/0/0 B/-/-/-,Serpent Soldier drop,-
+Moonlight Greatsword,0/132/0/0 (Normal),,300,6.0,16*/10/28/0 -/-/A/-,Seath the Scaleless (Tail) drop,"Raises Magic Defense by 40 points. One handed strong attack is replaced with a charged vertical slash that releases an energy wave. Consumes 20 durability points. Two handed strong attack is replaced with a charged horizontal slash that releases an energy wave. The energy wave explodes on impact, dealing AoE damage. Consumes 40 durability points."
+Obsidian Greatsword,320/0/0/0 (Normal),,350,8.0,20*/16/0/0 -/-/-/-,Black Dragon Kalameet drop (if tail is severed),Two handed strong attack is replaced with an AoE black fire attack. Consumes 50 durability points.
+Stone Greatsword,148/100/0/0 (Normal),,800,18.0,40*/10/0/0 C/C/E/-,Sold by Shiva of the East Giant Stone Knight drop,One handed strong attack is replaced with a single heavy downward slash. Two handed strong attack is replaced with an energy wave that radiates outwards and does no damage but reduces the movement speed of all enemies within range (Similar effect to Tranquil Walk of Peace ).
+Black Knight Greatsword,220/0/0/0 (Normal),,300,14.0,32*/18/0/0 B/E/-/-,Black Knight (Greatsword),One handed strong attack is replaced with a lunging upward thrust. Two handed strong attack is replaced with a charged upward slash.
+Demon Great Machete,133/0/0/0 (Normal),,600,18.0,40*/0/0/0 B/-/-/-,Sold by Shiva of the East Minor Capra Demon drop,One and two handed strong attacks are replaced with a jumping downward slash.
+Dragon Greatsword,390/0/0/0 (Normal),,400,24.0,50*/10/0/0 -/-/-/-,Stone Dragon (Tail) drop,Raises Magic and Fire defense 20 points each. One handed strong attack is replaced with a running downward slash. Two handed strong attack is replaced with a running downward slash that creat a shockwave and consumes 50 durability points
+Greatsword,130/0/0/0 (Normal),,200,12.0,28*/10/0/0 C/D/-/-,Sold by Crestfallen Merchant Heavy Knight (mace or sword) drop Anor Londo treasure,-
+Zweihander,130/0/0/0 (Normal),,200,10.0,24*/10/0/0 C/D/-/-,Firelink Shrine treasure,One and two handed strong attacks are replaced with a running downward slash.
+Chaos Blade,144/0/0/0 Bleed 300 (Slash/Thrust),,120,6.0,16*/14/0/0 -/B/-/-,"Ascension only Upgrade +10 Katana (Uchigatana, Iaito, Washing Pole) with Soul of Quelaag",Every attack that connects also drain user's HP One handed strong attack is replaced with a dashing slash Two handed strong attack is replaced by a vertical slash that looks like whip's
+Iaito,88/0/0/0 Bleed 300 (Slash),,80,5.0,14*/20/0/0 -/B/-/-,Blighttown treasure,One handed and two handed strong attack is replaced with a running slash
+Uchigatana,90/0/0/0 Bleed 300 (Slash/Thrust),,80,5.0,14*/14/0/0 -/B/-/-,Sold by Shiva of the East Undead Merchant (Male) drop,-
+Washing Pole,"90/0/0/0 Bleed 300 (Slash,Thrust)",,60,8.0,20*/16/0/0 D/D/-/-,Sold by Shiva of the East,-
+Falchion,82/0/0/0 (Slash),,160,2.5,9*/13/0/0 E/B/-/-,Blighttown treasure Skeleton (Sword) drop,-
+Gold Tracer,130/0/0/0 Bleed 300 (Slash),,240,2.0,9*/25/0/0 E/A/-/-,Given by Lord's Blade Ciaran in exchange for Soul of Artorias Lord's Blade Ciaran drop,One handed strong attack is replaced with double slash that can be followed up with additional slashes with an additional input Two handed strong attack is replaced with triple slash that can be followed up with additional slashes with an additional input Parry is replaced with a triple slash
+Jagged Ghost Blade,155/0/0/0 Bleed 300 (Slash/Thrust),,100,1.5,7*/0/0/0 E/-/-/-,Ghost (Dagger) drop,Cursed weapon that can engage Ghosts in New Londo Ruins One and two handed strong attack is replaced with a series of stabs
+Painting Guardian Sword,76/0/0/0 Bleed 300 (Slash),,100,1.5,7*/20/0/0 E/A/-/-,Painting Guardian drop,One and two handed strong attack is replaced by a series of slashes that can be followed up by another slash with an additional input
+Quelaag's Furysword,60/0/180/0 (Normal),,600,3.5,11*/13/0/0 E/B/-/-,"Ascension only Upgrade +10 curved sword (Falchion, Scimitar, etc.) with Soul of Quelaag",Damage affected by Humanity stat
+Scimitar,80/0/0/0 (Slash),,160,1.5,7*/13/0/0 E/B/-/-,Starting weapon of the Wanderer class Skeleton (Shield) drop Sold by Undead Merchant (Male),-
+Shotel,82/0/0/0 (Slash),,120,2.5,9*/14/0/0 E/C/-/-,Sold by Shiva of the East Found on corpse in Sen's Fortress,One handed and two handed strong attack bypasses shields
+Gravelord Sword,265/0/0/0 Toxic 300 (Slash/Thrust),,600,10.0,24*/13/0/0 E/E/-/-,Join the Gravelord Servant Covenant,One-handed and two-handed strong attack replaced with a thrust
+Murakumo,113/0/0/0 (Slash),,180,12.0,28*/13/0/0 E/B/-/-,Giant Skeleton drop Shiva of the East drop,-
+Server,107/0/0/0 (Slash),,140,10.0,24*/13/0/0 E/C/-/-,Blighttown treasure,Regenerate 7 Hp Per Hit - does not stack
+Channeler's Trident,70/115/0/0 (Thrust),,240,6.0,16*/16/24/0 E/C/B/-,Channeler drop (respawns in Duke's Archives),One handed strong attack replaced by a spinning thrust that hits twice Two handed strong attack replaced by a dance that provides an attack boost to any nearby allies.
+Demon's Spear,100/0/0/120 (Thrust),,400,4.0,12*/10/0/0 C/C/-/-,Sold by Shiva of the East Bat Wing Demon drop,One and two handed strong attacks replaced by a delayed dashing attack
+Dragon Slayer Spear,95/0/0/65 (Thrust),,300,10.0,24*/24/0/0 C/B/-/B,Ascension only Upgrade +10 spear with Soul of Dragonslayer Ornstein,One handed strong attack is replaced by a long range lightning bolt projectile. Two handed strong attack replaced by an advancing thrust that can be followed up by an upwards thrust with an additional input.
+Four-Pronged Plow,75/0/0/0 (Thrust),,300,5.5,15*/12/0/0 D/C/-/-,Scarecrow drop,-
+Moonlight Butterfly Horn,0/120/0/ (Thrust),,160,4.0,12*/0/14/0 -/-/B/-,Ascension only Upgrade +10 spear with Soul of Moonlight Butterfly,Inflicts Magic Damage
+Partizan,80/0/0/0 (Thrust),,160,4.5,13*/12/0/0 D/C/-/-,Found in Darkroot Garden in a small opening. Hug the left wall upon entering the first fog gate to locate it.,One-handed and two-handed strong attack replaced by a 240 degrees sideways swing that is good in PvP
+Pike,86/0/0/0 (Thrust),,180,10.0,24*/10/0/0 D/C/-/-,Sold by Andre of Astora,Backstep + weak attack replaced by a charging three hit thrust
+Silver Knight Spear,163/0/0/0 Holy 110 (Thrust),,300,6.0,16*/22/0/0 E/C/-/-,Silver Spear Knights drop,One handed strong attack replaced by a horizontal swing
+Spear,80/0/0/0 (Thrust),,180,3.5,11*/10/0/0 D/C/-/-,Sold by Undead Merchant Male Infested Ghoul (Spear) drop Phalanx drop Undead Soldier (Spear) drop,-
+Winged Spear,86/0/0/0 (Thrust),,140,4.5,13*/15/0/0 E/C/-/-,Firelink Shrine treasure,-
+Black Knight Halberd,245/0/0/0 (Slash),,300,14.0,32*/18/0/0 D/E/-/-,Black Knight (spear) drop,One handed strong attack is replaced by a double spinning diagonal swing. Two handed strong attack is replaced with a dashing downward thrust.
+Gargoyle's Halberd,115/0/0/0 (Normal),,200,6.0,16*/12/0/0 D/D/-/-,Belltower Gargoyle drop Gargoyle drop,"Small increase to poison, toxin and bleed build up. Increases bleed and poison resistance by 25%"
+Giant's Halberd,140/0/0/135 (Normal/Thrust),,300,16,36*/12/0/0 D/D/-/-,Sold by Giant Blacksmith Sentinel drop Royal Sentinel drop,One and two handed strong attacks are replaced with a lunging thrust.
+Great Scythe,100/0/0/0 Bleed 300 (Slash),,130,5,14*/14/0/0 E/B/-/ -,The Catacombs,Bleed build up is 30 per strike and once inflicted does 30% of enemies total HP. Two handed strong attack is replaced with a dashing horizontal swing.
+Halberd,110/0/0/0 (Normal),,200,6.0,16*/12/0/0 D/D/-/-,Undead Parish treasure Mimic drop,One and two handed weak attacks are replaced by a thrust.
+Lifehunt Scythe,180/0/0/0 Bleed 500 (Normal),,100,6.0,16*/14/0/0 E/B/-/ -,Ascension only. Upgrade +10 Halberd or whip with Soul of Priscilla,Bleed build up is 50 per strike and once inflicted does 50% of enemies total HP. Online Play Bleed build up is 40 per strike to the player and does 50% of their Total HP.
+Lucerne,110/0/0/0 (Thrust),,200,5.5,15*/12/0/0 D/D/-/-,The Catacombs treasure,All attacks do piercing damage. Works well with Leo Ring . Light attacks are replaced with alternating downward smashes.
+Scythe,110/0/0/0 (Slash),,130,5.0,14*/12/0/0 E/C/-/-,Sen's fortress treasure,-
+Titanite Catch Pole,125/145/0/0 Critical 100 (Normal),,600,6,*16/14/0/0 D/D/D/-,Prowling Demon drop,"One and two handed strong attacks are replaced with a jumping downward thrust, similar to the Prowling demon's leaping attack."
+Black Bow of Pharis,34/0/0/0 (Normal),65,100,1.0,9*/18/0/0 E/S/-/-,Forest Hunter drop,Increased Range
+Composite Bow,55/0/0/0 (Normal),38,100,1.0,11*/12/0/0 C/C/-/-,New Londo Ruins treasure,Shortened Range
+Darkmoon Bow,85/85/0/0 (Normal),50,400,1.0,7*/16/0/16 E/D/-/D,Ascension only Upgrade +10 bow with Soul of Gwyndolin,-
+Long Bow,36/0/0/0 (Normal),50,100,1.0,9*/14/0/0 D/A/-/-,Darkroot Basin treasure Undead Crystal Soldier drop,-
+Short Bow,31/0/0/0 (Normal),50,100,0.5,7*/12/0/0 D/A/-/-,Starting weapon for the Hunter class Sold by Undead Merchant Male,-
+Avelyn,38/0/0/0 (Normal),50,150,6.0,16*/14/0/0 -/-/-/-,Duke's Archives treasure,Shoots three bolts at once.
+Heavy Crossbow,55/0/0/0 (Normal),50,150,5.0,14*/8/0/0 -/-/-/-,Depths treasure,-
+Light Crossbow,50/0/0/0 (Normal),50,150,3.0,10*/8/0/0 -/-/-/-,Undead Burg treasure Undead soldier drop,-
+Sniper Crossbow,52/0/0/0 (Normal),70,150,8.0,20*/16/0/0 -/-/-/-,Sen's Fortress treasure,Increases range. Cannot aim.
+Dragonslayer Greatbow,90/0/0/0 (Normal),50,100,10.0,20*/20/0/0 C/C/-/-,Anor Londo treasure,Requires Dragonslayer Arrows or Gough's Great Arrows .
+Gough's Greatbow,85/0/0/0 (Normal),55,100,13.0,27*/20/0/0 B/C/-/-,Gift from Hawkeye Gough Drops from Hawkeye Gough,Requires Dragonslayer Arrows or Gough's Great Arrows .
+Guardian Tail,84/0/0/0 Poison 300,,250,5.0,15*/10/0/0 -/C/-/-,Sanctuary Guardian drop (tail cut) Lesser Sanctuary Guardian drop (tail cut),-
+Notched Whip,76/0/0/0 Bleed 300,,200,2.0,8*/16/0/0 -/B/-/-,"Xanthous King, Jeremiah drop",Bleed is 33 per strike. Once inflicted does 30% of the enemy's total HP
+Whip,80/0/0/0 (Normal),,200,1.5,7*/14/0/0 -/B/-/-,Blighttown treasure,-

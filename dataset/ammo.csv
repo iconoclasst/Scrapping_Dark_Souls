@@ -1,0 +1,15 @@
+name,damage,bow dist rate bonus,auxiliary effects,availability,souls,special note
+Wooden Arrow,35/0/0/0 (Thrust),20,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,3,Cheapest arrows in game.
+Standard Arrow,45/0/0/0 (Thrust),20,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Crestfallen Merchant Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,10,-
+Large Arrow,60/0/0/0 (Thrust),15,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Crestfallen Merchant Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,50,-
+Feather Arrow,50/0/0/0 (Thrust),25,0/0/-/-,Sold by Crestfallen Merchant Set of 15 found in Darkroot Garden just after the Crystal Lizard spawn,100,-
+Fire Arrow,35/0/50/0 (Thrust),20,0/0/-/-,Sold by Undead Merchant Female,100,
+Poison Arrow,42/0/0/0 (Thrust),20,0/180/-/-,Sold by Undead Merchant Female,100,Inflicts poison on its target
+Moonlight Arrow,0/80/0/0 (Thrust),20,0/0/-/-,Sold by Giant Blacksmith,500,-
+Dragonslayer Arrow,100/0/0/0 (Thrust),30,0/0/-/-,Sold by Giant Blacksmith Silver Knight Archer drop,500,"Can be fired by Dragonslayer Greatbow , and with Gough's Greatbow from the additional content"
+Gough's Great Arrow,105/0/0/0 (Thrust),25,0/0/-/-,Sold by Hawkeye Gough,650,"Additional content, can be fired by Dragonslayer Greatbow and Gough's Greatbow"
+Wood Bolt,38/0/0/0 (Thrust),20,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,10,Cheapest bolts in game.
+Standard Bolt,48/0/0/0 (Thrust),20,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Crestfallen Merchant Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,30,-
+Heavy Bolt,64/0/0/0 (Thrust),15,0/0/-/-,Sold by Undead Merchant Male Sold by Undead Merchant Female Sold by Crestfallen Merchant Sold by Andre of Astora Sold by Domhnall of Zena Sold by Giant Blacksmith Sold by Vamos,100,-
+Lightning Bolt,38/0/0/78 (Thrust),20,0/0/-/-,Sold by Giant Blacksmith,700,-
+Sniper Bolt,53/0/0/0 (Thrust),25,0/0/-/-,Sen's Fortress treasure Sold by Crestfallen Merchant,250,Has longest range.

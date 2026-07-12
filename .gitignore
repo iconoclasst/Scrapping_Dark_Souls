@@ -3,5 +3,4 @@ __pycache__
 *.exe
 *.lock
 *.html
-*.csv
 .ipynb_checkpoints directory

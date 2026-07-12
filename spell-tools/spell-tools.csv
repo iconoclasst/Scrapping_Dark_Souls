@@ -1,0 +1,21 @@
+name,magic adjustment,damage,durability,weight,stats needed/bonuses,availability,special notes
+Beatrice's Catalyst,240,40/0/0/0 (Strike),90,2.0,6/0/10/0 E/-/A/-,Found in Valley of Drakes after killing The Four Kings .,Stats are identical with Sorcerer's Catalyst .
+Demon's Catalyst,200,110/0/170/0 (Thrust),300,4.0,12/10/10/0 D/D/B/-,Dropped by Demon Firesage .,Secondary attack has Fire damage.
+Izalith Catalyst,240,40/0/0/0 (Strike),300,2.0,6/0/14/0 E/-/A/-,Dropped by the Daughter of Chaos .,Identical MagAdjust with Beatrice's Catalyst and Sorcerer's Catalyst while having higher durability.
+Logan's Catalyst,250,46/0/0/0 (Strike),90,2.0,6/0/24/0 E/-/S/-,Found in The Duke's Archives after killing the insane Big Hat Logan .,"Highest MagAdjust after 40 INT , without halving spell usage."
+Manus Catalyst,295,190/0/0/0 (Strike),200,5.0,14/0/13/0 B/-/S/-,Ascend any other catalyst with Soul of Manus .,Halves spell usage. Secondary attack is axe 's overhead smash.
+Oolacile Catalyst,180,40/0/0/0 (Strike),55,2.0,6/0/10/0 E/-/C/-,Dropped by Bloathead Sorcerer .,"Fixed MagAdjust, doesn't scale with any attributes. Poison buildup with each melee hit."
+Oolacile Ivory Catalyst,180,24/0/0/0 (Strike),30,0.5,3/0/12/0 E/-/C/-,"Sold by Dusk of Oolacile for 1,000 souls. Sold by Elizabeth for 1,000 souls.","Fixed MagAdjust, doesn't scale with any attributes."
+Sorcerer's Catalyst,240,40/0/0/0 (Strike),90,2.0,6/0/10/0 E/-/A/-,Sorcerer starting equipment. Found in Lower Undead Burg . Sold by Griggs of Vinheim for 500 souls. Sold by Rickert of Vinheim for 500 souls.,Stats are identical to Beatrice's Catalyst .
+Tin Banishment Catalyst,220,145/0/0/0 (Thrust),160,3.0,10/10/12/0 E/D/A/-,Found in Blighttown .,Secondary attack is spear 's thrust.
+Tin Crystallization Catalyst,315,240/0/0/0 (Thrust),90,2.5,7/0/32/0 E/-/S/-,Dropped by the insane Big Hat Logan in The Duke's Archives .,Halves spell usage.
+Tin Darkmoon Catalyst,230,44/0/0/0 (Strike),60,1.0,4/0/0/16 E/-/-/A,Ascend any other catalyst with Soul of Gwyndolin .,Scales with Faith rather than Intelligence .
+Canvas Talisman,220,14/0/0/0 (Strike),50,0.3,4/0/0/14 -/-/-/A,Cleric starting equipment. Sold by Patches,-
+Darkmoon Talisman,240,14/0/0/0 (Strike),50,0.3,4/0/0/24 -/-/-/A,Achieve Blade of the Darkmoon covenant rank +1,-
+Ivory Talisman,234,14/0/0/0 (Strike),50,0.3,4/0/0/16 -/-/-/A,Rhea of Thorolund drop Petrus of Thorolund drop (after he killed Rhea),-
+Sunlight Talisman,234,14/0/0/0 (Strike),50,0.3,4/0/0/14 -/-/-/A,Solaire of Astora drop,-
+Talisman,200,14/0/0/0 (Strike),50,0.3,4/0/0/10 -/-/-/B,Sold by Petrus of Thorolund Sold by Rhea of Thorolund,-
+Thorolund Talisman,165,14/0/0/0 (Strike),50,0.3,4/0/0/10 -/-/-/C,Sold by Petrus of Thorolund Sold by Patches,"Fixed MagAdjust, doesn't scale with any attributes."
+Velka's Talisman,220,14/0/0/0 (Strike),50,0.3,4/0/16/0 -/-/A/-,Sold by Oswald of Carim,Scales with Intelligence rather than Faith
+Ascended Pyromancy Flame,196-230*,0/0/60/0 (Strike),30,0.0,4/0/0/0 -/-/-/-,"After you reinforce a Pyromancer Flame to +15, talk to Quelana of Izalith in the Blighttown swamp. She will ascend it to a stronger flame with a different graphic.",-
+Pyromancy Flame,100-190*,0/0/40/0 (Strike),30,0.0,4/0/0/0 -/-/-/-,Starting equipment for Pyromancers . Laurentius of the Great Swamp gift when he arrives at Firelink Shrine Eingyi gift,-
