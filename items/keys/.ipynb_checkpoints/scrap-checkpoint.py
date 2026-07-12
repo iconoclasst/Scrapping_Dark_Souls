@@ -1,17 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 
-def get_bonfire_items():
+def get_keys():
     headers = {
         'User-Agent': 'Mozilla/5.0'
     }
 
-    url = 'http://darksouls.wikidot.com/bonfire-items' 
+    url = 'http://darksouls.wikidot.com/keys' 
 
-    bonfire_items = {
+    keys = {
         'name':[],
         'availability':[],
-        'use':[],
+        'opens':[],
         'special note':[]
     }
 
@@ -27,9 +27,9 @@ def get_bonfire_items():
             continue
 
 
-        bonfire_items['name'].append(tds[1].get_text(" ", strip=True))
-        bonfire_items['availability'].append(tds[2].get_text(" ", strip=True))
-        bonfire_items['use'].append(tds[3].get_text(" ", strip=True))
-        bonfire_items['special note'].append(tds[4].get_text(" ", strip=True))
+        keys['name'].append(tds[1].get_text(" ", strip=True))
+        keys['availability'].append(tds[2].get_text(" ", strip=True))
+        keys['opens'].append(tds[3].get_text(" ", strip=True))
+        keys['special note'].append(tds[4].get_text(" ", strip=True))
             
-    return bonfire_items
+    return keys
